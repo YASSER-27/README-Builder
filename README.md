@@ -2,7 +2,7 @@
 > README Builder ⭐
 
 <p align="center">
-  <img src="icon.png" width="100" />
+  <img src="icon.png" width="200" />
 </p>
 
 ## 📸 Screenshots
@@ -18,9 +18,22 @@
 </p>
 
 > README Builder
+> Downlaod Now Free And Open source [HERE](https://github.com/YASSER-27/README-Builder/releases)
 
 ## 🛠 Installation
 1. **Download** README Builder.
 2. **Run** `add_context_menu.reg`.
+---
+Context Menu: Run add_context_menu.reg to add the "Open with README Builder" option to your right-click menu.
+
+Environment Variable (Optional): Add the program path to your system's Path to enable the global readme command.
+
+🛠️ How to Use?
+Navigate to any project folder on your PC.
+
+Type readme in the folder's address bar or right-click and select the builder.
+
+Start typing and watch your documentation come to life instantly!
 
 **Done! ✅**
+
