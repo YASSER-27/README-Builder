@@ -10,10 +10,10 @@
 | ![Img1](example/readme.png) | ![Img2](example/readme2.png) |
 | ![Img1](example/readme1.png)  | ![Img1](example/readme3.png)  |
 
-> README Builder
-
 <video src="https://github.com/YASSER-27/README-Builder/raw/main/example/readme.mp4" width="100%" controls muted autoplay loop>
 </video>
+
+> README Builder
 
 ## 🛠 Installation
 
@@ -21,6 +21,7 @@
 **2 Run add_context_menu.reg**
 
 Done
+
 
 
 
