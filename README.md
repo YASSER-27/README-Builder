@@ -12,10 +12,8 @@
 
 > README Builder
 
-<div align="center">
-  <video src="example/readme.mp4" width="100%" controls muted autoplay loop>
-  </video>
-</div>
+<video src="https://github.com/YASSER-27/README-Builder/raw/main/example/readme.mp4" width="100%" controls muted autoplay loop>
+</video>
 
 ## 🛠 Installation
 
@@ -23,6 +21,7 @@
 **2 Run add_context_menu.reg**
 
 Done
+
 
 
 
