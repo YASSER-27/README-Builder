@@ -21,8 +21,10 @@
 > Downlaod Now Free And Open source [HERE](https://github.com/YASSER-27/README-Builder/releases)
 
 ## 🛠 Installation
-1. **Download** README Builder.
-2. **Run** `add_context_menu.reg`.
+1. **Download** README Builder Zip.
+2. **Add** README Builder in Environment Variable to your system's Path to enable the global readme command
+3. **Run** `add_context_menu.reg`.
+4. **Now** right-click > Open with > README **Or** Instant Access: In any folder's Address Bar, simply type readme and press Enter to launch the editor instantly.
 ---
 Context Menu: Run add_context_menu.reg to add the "Open with README Builder" option to your right-click menu.
 
@@ -36,4 +38,5 @@ Type readme in the folder's address bar or right-click and select the builder.
 Start typing and watch your documentation come to life instantly!
 
 **Done! ✅**
+
 
