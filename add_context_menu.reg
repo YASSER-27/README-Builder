@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\ReadmeBuilder]
+@="Open with Readme"
+"Icon"="C:\\Users\\Yassir-Houm\\ReadmeBuilder\\icon.png"
+
+[HKEY_CLASSES_ROOT\*\shell\ReadmeBuilder\command]
+@="\"C:\\Users\\Yassir-Houm\\ReadmeBuilder\\rm.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\ReadmeBuilder]
+@="Open with Readme"
+"Icon"="C:\\Users\\Yassir-Houm\\ReadmeBuilder\\icon.png"
+
+[HKEY_CLASSES_ROOT\Directory\shell\ReadmeBuilder\command]
+@="\"C:\\Users\\Yassir-Houm\\ReadmeBuilder\\rm.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ReadmeBuilder]
+@="Open with Readme"
+"Icon"="C:\\Users\\Yassir-Houm\\ReadmeBuilder\\icon.png"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ReadmeBuilder\command]
+@="\"C:\\Users\\Yassir-Houm\\ReadmeBuilder\\rm.bat\" \"%V\""
