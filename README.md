@@ -12,7 +12,7 @@
 
 > README Builder
 
-![Img1](example/readme.mp4) 
+<video src="example/readme.mp4" width="100%" controls></video>
 
 ## 🛠 Installation
 
@@ -20,4 +20,5 @@
 **2 Run add_context_menu.reg**
 
 Done
+
 
