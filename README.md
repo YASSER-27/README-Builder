@@ -25,6 +25,9 @@
 2. **Add** Environment Path: Add the C:\README-Builder folder to your system's Environment Variables (Path). This enables the global readme command from any directory.
 3. **Run** `add_context_menu.reg`.
 4. **Now** right-click > Open with > README **Or** Instant Access: In any folder's Address Bar, simply type readme and press Enter to launch the editor instantly.
+
+> for remove readme from right-click go to RUN and regedit and (Computer\HKEY_CLASSES_ROOT\Directory\Background\shell) and remove folder readme
+ 
 ---
 Context Menu: Run add_context_menu.reg to add the "Open with README Builder" option to your right-click menu.
 
@@ -38,6 +41,7 @@ Type readme in the folder's address bar or right-click and select the builder.
 Start typing and watch your documentation come to life instantly!
 
 **Done! ✅**
+
 
 
 
