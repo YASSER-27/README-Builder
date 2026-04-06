@@ -1,5 +1,64 @@
-# README Builder
-> README Builder ⭐
+<p align="center">
+  <img src="icon/design.png" width="170" alt="Logo">
+  <br>
+  <b>README Builder v4.0.0.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YASSER-27/README-Builder/releases">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github" alt="Download">
+</p>
+
+>README Builder Pro is a high-performance, professional Markdown editor specifically designed for creating stunning GitHub READMEs. It features a real-time high-fidelity preview, AI-powered content generation, and seamless Windows integration.
+
+## Instant Deployment (Windows)
+
+> [!IMPORTANT]
+> When you run the application for the first time, it automatically performs a **Self-Installation**:
+> 1. It copies the executable to your local profile: `%LOCALAPPDATA%\Programs\READMEBuilder`
+> 2. It creates a "README Builder" shortcut on your Desktop.
+> 3. It registers itself in the Windows Context Menu (Right-click).
+>
+> This ensures the program is always accessible and performs optimally from a stable location.
+
+## Key Features
+
+- **Fidelity Preview**: Real-time rendering with GitHub-standard styling.
+- **Templates**: 15+ professional templates (Web App, CLI, Mobile, Game, etc.) with live preview.
+- **AI Integration**: Built-in AI assistant to improve structure, translate, or auto-complete your README.
+- **Windows Integration**: 
+  - **Open with README Builder**: Right-click any file to edit.
+  - **Create README here**: Right-click folder background to start a new project instantly.
+- **Toolkit**: Built-in Image Manager, Table Generator, Badge Library, and Automatic TOC generation.
+- **Performance**: Native PySide6 implementation for near-instant startup and smooth editing.
+
+ ![readme4.0.0v](icon/readme4.0.0v.png)
+ ![readme4.0.0](icon/readme4.0.0.png)
+
+##  Shortcuts
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl + N` | New Tab |
+| `Ctrl + S` | Quick Save |
+| `Ctrl + T` | Open Templates |
+| `Ctrl + I` | Image Manager |
+| `Ctrl + F` | Find |
+| `F1` | Save Selection as Snippet |
+| `F2` | Rename Current Tab |
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# README Builder 3.0.0
+> README Builder 
 
 <p align="center">
   <img src="icon.png" width="200" />
