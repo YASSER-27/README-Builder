@@ -12,6 +12,10 @@
 > README Builder Pro is a high-performance, professional Markdown editor specifically designed for creating stunning GitHub READMEs. It features a real-time high-fidelity preview, AI-powered content generation, and seamless Windows integration.
 
 > README Builder 66.1 MB
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p> 
 ## Instant Deployment (Windows)
 
 > [!IMPORTANT]
