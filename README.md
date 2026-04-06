@@ -22,6 +22,10 @@
 >
 > This ensures the program is always accessible and performs optimally from a stable location.
 
+![readme4.0.0v](icon/output.gif)
+
+![readme4.0.1v](icon/output1.gif)
+
 ## Key Features
 
 - **Fidelity Preview**: Real-time rendering with GitHub-standard styling.
@@ -34,7 +38,6 @@
 - **Performance**: Native PySide6 implementation for near-instant startup and smooth editing.
 
  ![readme4.0.0v](icon/readme4.0.0v.png)
- ![readme4.0.0](icon/readme4.0.0.png)
 
 ##  Shortcuts
 
