@@ -35,9 +35,6 @@ Python README_LITE_4.1.0.py
 ## How to Use
 > The program is very easy to use. Just move it to the **C: drive** inside a folder named **README** (or any name you prefer). When you run it for the first time from that path, the program will automatically integrate with your system. After that, you can easily use it to open existing README files or create new ones.
 
-
-
-
 ---
 
 <p align="center">
