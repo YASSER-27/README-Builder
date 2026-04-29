@@ -1,4 +1,46 @@
 <p align="center">
+  <img src="4.1.0/showcase.png" width="500" alt="Edit Img Tool Logo">
+  <h1 align="center">README 4.1.0</h1>
+  <p align="center">New version 4.1.0</p>
+</p>
+
+> README 4.1.0 consists of two versions:
+
+> 4.1.0 Lite (No AI ) - 10x Faster.
+
+> 4.1.0 AI (Opening is slower because it needs to start the server and connect to the model within README 4.1.0.exe).
+
+**Images**
+
+| AI version | Lite version |
+|---|---|
+| ![show](4.1.0/show.png) | ![README_lite1](4.1.0/show_lite.png) |
+
+## Installation
+1. Clone:
+```bash
+git clone https://github.com/YASSER-27/README-Builder
+```
+
+```bash
+Python README_LITE_4.1.0.py
+```
+
+**Download**
+
+[Lite version](https://github.com/YASSER-27/README-Builder/releases/download/4.1.0/README.Lite.exe)
+
+[AI version](https://github.com/YASSER-27/README-Builder/releases/download/4.1.0/README.AI.exe)
+
+## How to Use
+> The program is very easy to use. Just move it to the **C: drive** inside a folder named **README** (or any name you prefer). When you run it for the first time from that path, the program will automatically integrate with your system. After that, you can easily use it to open existing README files or create new ones.
+
+
+
+
+---
+
+<p align="center">
   <img src="icon/design.png" width="180" alt="Logo">
   <br>
   <b>README Builder v4.0.1</b>
