@@ -1,4 +1,4 @@
-<img width="3912" height="2052" alt="framecase" src="https://github.com/user-attachments/assets/6fb48f78-cf6d-42bd-93c9-79634c834956" />
+<img width="1920" height="1080" alt="framecase-windows-blue-11" src="https://github.com/user-attachments/assets/1df9e375-ade4-4155-b33c-2d49cb1834c9" />
 
 
 <div align="center">
