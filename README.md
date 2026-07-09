@@ -1,3 +1,82 @@
+<img width="3912" height="2052" alt="framecase" src="https://github.com/user-attachments/assets/6fb48f78-cf6d-42bd-93c9-79634c834956" />
+
+
+<div align="center">
+  <h1>READMEBuilder 4.2.0</h1>
+  
+![Stable Version](https://img.shields.io/badge/Fast-version-brightgreen)
+  
+![Stable Version](https://img.shields.io/badge/version-stable-brightgreen)
+<p align="center"><a href="https://github.com/YASSER-27/README-Builder/releases/download/4.2.0/READMEBuilder.4.2.0.exe)"><img src="https://img.shields.io/badge/READMEBuilder.4.2.0-blue?style=for-the-badge&logo=github" alt="Download"></a></p>
+
+</div>
+
+<div align="left">
+  <h2>All new changes</h2>
+</div>
+
+1. Smart Shortcuts
+
+   - H1/H2/H3: Alt+& / Alt+é / Alt+" — transforms current line or selection into a heading
+   - F3: Insert `<img>` tag
+   - F4: `<h1 align="center">` — wraps selection in centered heading
+   - F5/F6/F7: `<p align="left/center/right">`
+   - F8: `- **bold**` — each selected line becomes a bold bullet
+   - F9: `> [!NOTE]` alert
+   - F10: code block with \`\`\`bash
+   - Ctrl+& / Ctrl+é / Ctrl+" / Ctrl+': tables (2/3/4 columns + aligned)
+   - *All are smart: if text is selected, it transforms it; if not, it applies to the current line.*
+
+3. Preview Fix
+
+   - Removed all auto-scrolling — preview only moves when you manually scroll
+   - Save and restore scrollbar position around `setHtml` (`QTextBrowser` is synchronous, so no flicker)
+   - Added line numbers to the preview using CSS counters for visual reference
+
+5. Canvas Centering
+   - When opening the canvas, camera auto-centers on all nodes and adjusts zoom to fit
+
+6. PDF Export
+   - Export dialog now includes PDF (`*.pdf`) alongside HTML and Markdown
+   - Uses `QPrinter` with A4 page size and 20mm margins
+
+7. Single Instance
+   - Opening a `.md` file from Explorer opens in the same running app instance as a new tab
+   - Uses `QLocalServer`/`QLocalSocket` — the second instance sends the file path and exits
+
+8. Key Binding Fix
+   - Changed from `Qt.Key_1`/`Qt.Key_2`/`Qt.Key_3` to actual AZERTY characters `&`, `é`, `"`, `'` so the top-row keys work correctly  
+9. Fix
+   -Removed: TOC - Score - Social - Translate - Repair
+
+## Shortcuts
+
+| Shortcuts | action | 
+| --- | --- | 
+| H1 | Alt+& | 
+| H1 | Alt+é | 
+| H3 | Alt+ | 
+| F3 | Insert `<img>` tag| 
+| F4 | h1 align="center | 
+| F7 | align="left | 
+| F8 |  align="center | 
+| F9 |  align="right | 
+| F10 | Cell | 
+| Ctrl+& | tables1 | 
+| Ctrl+é | tables2 | 
+| Ctrl+" | tables3 | 
+| Ctrl+' | tables4 | 
+| Ctrl+r | open canvas | 
+| Ctrl+t | quick template | 
+| Ctrl+w | close tab | 
+| Ctrl+n | new tab | 
+| Ctrl+f | find | 
+
+How to Use
+>The program is very easy to use. Just move it to the C: drive inside a folder named README (or any name you prefer). When you run it for the first time from that path, the program will automatically integrate with your system. After that, you can easily use it to open existing README files or create new ones.
+
+---
+
 <p align="center">
   <img src="4.1.0/showcase.png" width="500" alt="Edit Img Tool Logo">
   <h1 align="center">README 4.1.0</h1>
