@@ -3,13 +3,17 @@
 
 <div align="center">
   <h1>READMEBuilder 4.2.0</h1>
-  
-![Stable Version](https://img.shields.io/badge/Fast-version-brightgreen)
-  
-![Stable Version](https://img.shields.io/badge/version-stable-brightgreen)
-<p align="center"><a href="https://github.com/YASSER-27/README-Builder/releases/download/4.2.0/READMEBuilder.4.2.0.exe)"><img src="https://img.shields.io/badge/READMEBuilder.4.2.0-blue?style=for-the-badge&logo=github" alt="Download"></a></p>
-
 </div>
+
+<p align="center">
+  
+[![fast Version](https://img.shields.io/badge/Fast-version-brightgreen)](https://github.com/YASSER-27/README-Builder/releases/download/4.2.0/READMEBuilder.4.2)
+[![Stable Version](https://img.shields.io/badge/version-stable-brightgreen)](https://github.com/YASSER-27/README-Builder/releases/download/4.2.0/READMEBuilder.4.2.0.exe)
+
+</p>
+
+<p align="left"><a href="https://github.com/YASSER-27/README-Builder/releases/download/4.2.0/READMEBuilder.4.2.0.exe)"><img src="https://img.shields.io/badge/READMEBuilder.4.2.0-blue?style=for-the-badge&logo=github" alt="Download"></a>
+</p>
 
 <div align="left">
   <h2>All new changes</h2>
